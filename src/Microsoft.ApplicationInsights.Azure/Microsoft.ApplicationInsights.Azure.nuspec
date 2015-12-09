@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Application Insights Azure Modules</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>https://raw.githubusercontent.com/CatalystCode/appinsights-azure-modules/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/CatalystCode/appinsights-azure-modules</projectUrl>
+    <iconUrl>http://appanacdn.blob.core.windows.net/cdn/icons/aic.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Application Insights Azure Modules. This package provides additional application insights functionality when operating a site or service within Windows Azure.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright c Microsoft. All Rights Reserved.</copyright>
+    <tags>Analytics ApplicationInsights Telemetry AppInsights Azure</tags>
+  </metadata>
+</package>
