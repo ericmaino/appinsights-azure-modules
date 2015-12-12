@@ -12,7 +12,7 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Application Insights Azure Modules. This package provides additional application insights functionality when operating a site or service within Windows Azure.</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright c MeetEric>NET. All Rights Reserved.</copyright>
+    <copyright>Copyright © MeetEric.NET. All Rights Reserved.</copyright>
     <tags>Analytics ApplicationInsights Telemetry AppInsights Azure</tags>
   </metadata>
 </package>
