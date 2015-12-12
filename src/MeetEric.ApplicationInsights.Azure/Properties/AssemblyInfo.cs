@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyCopyright("Copyright © Microsoft. All Rights Reserved.")]
-[assembly: AssemblyTitle("Microsoft.ApplicationInsights.Azure")]
-[assembly: AssemblyProduct("Microsoft.ApplicationInsights.Azure")]
+[assembly: AssemblyCompany("MeetEric.NET")]
+[assembly: AssemblyCopyright("Copyright © MeetEric.NET. All Rights Reserved.")]
+[assembly: AssemblyTitle("MeetEric.ApplicationInsights.Azure")]
+[assembly: AssemblyProduct("MeetEric.ApplicationInsights.Azure")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
