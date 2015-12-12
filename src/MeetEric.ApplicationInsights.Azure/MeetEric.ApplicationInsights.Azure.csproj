@@ -7,8 +7,8 @@
     <ProjectGuid>{4ADDDA7F-4742-4AD6-9E8F-265D8D579D2F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Microsoft.ApplicationInsights</RootNamespace>
-    <AssemblyName>Microsoft.ApplicationInsights.Azure</AssemblyName>
+    <RootNamespace>MeetEric.ApplicationInsights</RootNamespace>
+    <AssemblyName>MeetEric.ApplicationInsights.Azure</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

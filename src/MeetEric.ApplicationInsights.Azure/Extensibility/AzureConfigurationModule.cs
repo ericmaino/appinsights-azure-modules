@@ -1,11 +1,8 @@
-﻿using Microsoft.Azure;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
+using Microsoft.ApplicationInsights.Extensibility;
+using Microsoft.Azure;
 
-namespace Microsoft.ApplicationInsights.Extensibility
+namespace MeetEric.ApplicationInsights.Extensibility
 {
     public class AzureConfigurationModule : ITelemetryModule
     {
